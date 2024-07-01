@@ -1,0 +1,5 @@
+{
+  "Description": "Domain ownership verification file for Microsoft 365 - place in the website root",
+  "Domain": "bankaifit.com",
+  "Id": "45273bca-c7fb-4241-90b9-19648bab8b94"
+}
